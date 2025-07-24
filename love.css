@@ -1,0 +1,49 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;   
+  text-align: center;
+  background: rgb(239, 174, 204);
+  color: rgb(147, 8, 59);
+}
+.container{
+  margin-top: 50px;
+  background:rgb(rgb(210, 106, 247), rgb(72, 22, 74), blue) ;
+  padding: 20px;
+  border-radius: 10px;
+  display: inline-block;
+}
+h1{
+  font-size: 20px;
+}
+table{
+  width: 100%;
+  margin: 20px 0;
+  background: white;
+  color: rgb(236, 8, 172);
+  border-radius: 10px;
+  padding: 50px;
+
+}
+th,td{
+  padding: 5px;
+}
+input{
+  width: 50px;
+   padding: 5px;
+}
+button{
+  padding: 10px 20px;
+  border: none;
+  background: rgb(251, 3, 147);
+  color: pointer;
+  font-size: 18px;
+  border-radius: 20px;
+}
+button:hover{
+  background: rgb(245, 107, 134);
+}
+#bill{
+  margin-top: 20px;
+  font-size: 22px;
+  font-weight: bold;
+  
+}
